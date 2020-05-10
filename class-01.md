@@ -5,10 +5,13 @@ With the constant introduction of new technology in today’s society, new caree
 
 At this point, you may be thinking **“Okay, I’ll bite. Where do I start?”** There are three main programming languages that are an essential part of the web developer’s arsenal: HTML, CSS, and JavaScript. Each of these languages have their own unique characteristics and uses, and are equally important in the creation of an effective and enticing webpage. While each language is a powerful tool by itself, they are designed to be compatible with each other and are best used in conjunction.
 
+---
+
 1. >## HTML
 
 - HTML, or Hypertext Markup Language, is primarily used in the creation of the webpage skeleton. It is the most important of the three languages that this post will cover. HTML is responsible for creating the “physical” elements of the webpage. Elements such as links, text, images/video, dividers, and others are inserted into the webpage through HTML. It essentially forms the webpage’s skeleton. All other languages that are incorporated in web development are implemented around HTML and are spaced in specific areas according to the tags used in the HTML code.
  #### Example For Html:
+ 
 ```
 <dev>
     <h1>Web developer</h1>
@@ -20,6 +23,7 @@ At this point, you may be thinking **“Okay, I’ll bite. Where do I start?”*
 
 ```
 <!--"this is a comment" -->
+
 ```
 
 #### the figure below shows the recommended minimum skeleton of an HTML5 document:
