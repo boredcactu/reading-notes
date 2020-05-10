@@ -16,12 +16,11 @@ This course guides students toward developing a well-rounded foundation of skill
 This course includes a career coaching curriculum to get you ready for your job search. The course totals 160 hours, including lectures, lab, coworking, and collaborative projects.
 
 
- >## table of contents:
+## Table Of Contents:
 
  **Topic**  | **Reading Time**
 ----------- |-----------------
 [Introductory HTML and JavaScript](/class-01.md)  | 7 min
-<!--
  [read 2]()  | x min
 [read 3]()  | x min
 [read 4]()  | x min
@@ -36,7 +35,7 @@ This course includes a career coaching curriculum to get you ready for your job 
 [read 13]() | x min
 [read 14]() | x min
 [read 15]() | x min 
--->
+
 
 ---
 
