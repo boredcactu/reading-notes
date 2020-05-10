@@ -1,4 +1,6 @@
-# 3 ESSENTIAL PROGRAMMING LANGUAGES FOR EVERY WEB DEVELOPER:
+# Introductory HTML, CSS and JavaScript
+
+## 3 ESSENTIAL PROGRAMMING LANGUAGES FOR EVERY WEB DEVELOPER:
 Our world is changing
 
 With the constant introduction of new technology in today’s society, new careers and opportunities are always becoming available to those who are entering our workforce. As countless organizations and corporations are scrambling to adapt to the technological innovations of the twenty-first century, employees with the skills to fill and excel in these tech support positions are in increasingly high demand. At the forefront of this revolution is the growing pressure for businesses for develop a strong online presence. This drive has led to a powerful demand for employees who possess skills in web development and social media marketing. The power to build a webpage has become the power to find opportunity in today’s job market.
@@ -11,7 +13,7 @@ At this point, you may be thinking **“Okay, I’ll bite. Where do I start?”*
 
 - HTML, or Hypertext Markup Language, is primarily used in the creation of the webpage skeleton. It is the most important of the three languages that this post will cover. HTML is responsible for creating the “physical” elements of the webpage. Elements such as links, text, images/video, dividers, and others are inserted into the webpage through HTML. It essentially forms the webpage’s skeleton. All other languages that are incorporated in web development are implemented around HTML and are spaced in specific areas according to the tags used in the HTML code.
  #### Example For Html:
- 
+
 ```
 <dev>
     <h1>Web developer</h1>
