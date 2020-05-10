@@ -20,8 +20,8 @@ This course includes a career coaching curriculum to get you ready for your job 
 
  **Topic**  | **Reading Time**
 ----------- |-----------------
-[read 1]()  | x min
-[read 2]()  | x min
+[Introductory HTML and JavaScript](/class-01.md)  | 7 min
+<!-- [read 2]()  | x min
 [read 3]()  | x min
 [read 4]()  | x min
 [read 5]()  | x min
@@ -34,6 +34,8 @@ This course includes a career coaching curriculum to get you ready for your job 
 [read 12]() | x min
 [read 13]() | x min
 [read 14]() | x min
-[read 15]() | x min
+[read 15]() | x min -->
+
+---
 
 [home](/README.md) | [About me](/about-me.md) | [contact me](/contact-me.md)
