@@ -33,6 +33,8 @@ describe both headings and paragraphs
 
 ```
 
+* Result
+
 # This is the main Heading
 
 ## This is a level 2 Heading
@@ -62,7 +64,65 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate earum digni
 
 ![b&i](./img/b&i.png)
 
+---
+
 ## CSS Introduction:
+
+CSS, or cascading style sheets, is the simplest of the three languages. HTML is primarily used to create the practical structure of a website. CSS, on the other hand, is used to style the elements of the webpage that are created through HTML. Colors, fonts, borders, and other characteristics are all controlled through CSS.
+
+#### Example For Css:
+
+``` 
+.body{
+    background-color: #0000ff;
+    margin: 100%;
+}
+```
+
+### 1. What CSS dose?
+
+* CSS is a language that describes the style of an HTML document.
+* CSS describes how HTML elements should be displayed.
+
+### 2. How CSS works?
+
+CSS allows you to create rules that control the
+way that each individual box (and the contents
+of that box) is presented.
+
+#### Example Styles:
+
+1. Boxes
+
+* Width and height Borders (color, width, and style) Background color and images Position in the browser window.
+
+1. Text
+
+* Typeface
+* Size
+* Color
+* Italics, bold, uppercase, 
+* lowercase, small-caps
+
+1. SPecific
+
+* There are also specific ways in which you can style certain elements such as lists, tables, and forms.
+
+### 3. How we can add CSS for web pages?
+>it's three way:
+
+1. Using External CSS
+
+![ex](./img/ex.png)
+
+2. Using Internal CSS
+
+![int](./img/int.png)
+
+3. CSS Selectors
+
+![inl](./img/inl.png)
+
 
 ## Basic JavaScript Instruction:
 
