@@ -21,7 +21,7 @@ This course includes a career coaching curriculum to get you ready for your job 
  **Topic**  | **Reading Time**
 ----------- |-----------------
 [Introductory HTML and JavaScript](/class-01.md)  | 7 min
- [read 2]()  | x min
+ [HTML Text, CSS Introduction, and Basic JavaScript Instructions](/class-02.md)  | 6 min
 [read 3]()  | x min
 [read 4]()  | x min
 [read 5]()  | x min
