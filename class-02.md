@@ -60,7 +60,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate earum digni
  ---
 **3. Bold & Italic:**
 
-![b&i](https://github.com/ahmad-swedani/reading-notes/blob/master/img/b%26i.png)
+![b&i](./img/b&i.png)
 
 ## CSS Introduction:
 
