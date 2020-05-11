@@ -135,7 +135,7 @@ of that box) is presented.
 | Using Quotes Inside a String	| [string-with-quotes.html](http://javascriptbook.com/code/c02/string-with-quotes.html)	|   [string-with-quotes.js](http://javascriptbook.com/code/c02/js/string-with-quotes.js) |
 | Using a Variable to Store a Boolean |	[boolean-variable.html](http://javascriptbook.com/code/c02/boolean-variable.html) |	  [boolean-variable.js](http://javascriptbook.com/code/c02/js/boolean-variable.js) |
 | Shorthand for Creating Variables	| [shorthand-variable.html](http://javascriptbook.com/code/c02/shorthand-variable.html) | [shorthand-variable.js](http://javascriptbook.com/code/c02/js/shorthand-variable.js) |
-| Changing the Value of a Variable	| [update-variable.html](http://javascriptbook.com/code/c02/update-variable.html)	|      [update-variable.js]()http://javascriptbook.com/code/c02/js/update-variable.js |
+| Changing the Value of a Variable	| [update-variable.html](http://javascriptbook.com/code/c02/update-variable.html)	|      [update-variable.js](http://javascriptbook.com/code/c02/js/update-variable.js) |
 | Creating an Array (i)	| [array-literal.html](http://javascriptbook.com/code/c02/array-literal.html)	| [array-literal.js](http://javascriptbook.com/code/c02/js/array-literal.js) |
 | Creating an Array (ii)	| [array-constructor.html](http://javascriptbook.com/code/c02/array-constructor.html) |	[array-constructor.js](http://javascriptbook.com/code/c02/js/array-constructor.js) |
 | Accessing & Changing Values in an Array	| [update-array.html](http://javascriptbook.com/code/c02/update-array.html) |	[update-array.js](http://javascriptbook.com/code/c02/js/update-array.js) |
