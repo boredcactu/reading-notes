@@ -92,38 +92,57 @@ of that box) is presented.
 
 #### Example Styles:
 
-1. Boxes
+* Boxes
 
-* Width and height Borders (color, width, and style) Background color and images Position in the browser window.
+   * Width and height Borders (color, width, and style) Background color and images Position in the browser window.
 
-1. Text
+* Text
 
-* Typeface
-* Size
-* Color
-* Italics, bold, uppercase, 
-* lowercase, small-caps
+   * Typeface
+   * Size
+   * Color
+   * Italics, bold, uppercase, 
+   * lowercase, small-caps
 
-1. SPecific
+* SPecific
 
-* There are also specific ways in which you can style certain elements such as lists, tables, and forms.
+    - There are also specific ways in which you can style certain elements such as lists, tables, and forms.
 
 ### 3. How we can add CSS for web pages?
->it's three way:
 
-1. Using External CSS
+> it's three way:
+
+**1. Using External CSS**
 
 ![ex](./img/ex.png)
 
-2. Using Internal CSS
+**2. Using Internal CSS**
 
 ![int](./img/int.png)
 
-3. CSS Selectors
+**3. CSS Selectors**
 
 ![inl](./img/inl.png)
 
+---
 
 ## Basic JavaScript Instruction:
+
+| TITLE |	HTML|	JAVASCRIPT |
+|--------|--------|-------|
+| Using a Variable to Store a Number	| [numeric-variable.html](http://javascriptbook.com/code/c02/numeric-variable.html)	| [numeric-variable.js](http://javascriptbook.com/code/c02/js/numeric-variable.js) |
+| Using a Variable to Store a String	| [string-variable.html](http://javascriptbook.com/code/c02/string-variable.html)	|  [string-variable.js](http://javascriptbook.com/code/c02/js/string-variable.js) |
+| Using Quotes Inside a String	| [string-with-quotes.html](http://javascriptbook.com/code/c02/string-with-quotes.html)	|   [string-with-quotes.js](http://javascriptbook.com/code/c02/js/string-with-quotes.js) |
+| Using a Variable to Store a Boolean |	[boolean-variable.html](http://javascriptbook.com/code/c02/boolean-variable.html) |	  [boolean-variable.js](http://javascriptbook.com/code/c02/js/boolean-variable.js) |
+| Shorthand for Creating Variables	| [shorthand-variable.html](http://javascriptbook.com/code/c02/shorthand-variable.html) | [shorthand-variable.js](http://javascriptbook.com/code/c02/js/shorthand-variable.js) |
+| Changing the Value of a Variable	| [update-variable.html](http://javascriptbook.com/code/c02/update-variable.html)	|      [update-variable.js]()http://javascriptbook.com/code/c02/js/update-variable.js |
+| Creating an Array (i)	| [array-literal.html](http://javascriptbook.com/code/c02/array-literal.html)	| [array-literal.js](http://javascriptbook.com/code/c02/js/array-literal.js) |
+| Creating an Array (ii)	| [array-constructor.html](http://javascriptbook.com/code/c02/array-constructor.html) |	[array-constructor.js](http://javascriptbook.com/code/c02/js/array-constructor.js) |
+| Accessing & Changing Values in an Array	| [update-array.html](http://javascriptbook.com/code/c02/update-array.html) |	[update-array.js](http://javascriptbook.com/code/c02/js/update-array.js) |
+| Using Arithmetic Operators |	[arithmetic-operator.html](http://javascriptbook.com/code/c02/arithmetic-operator.html) |	[arithmetic-operator.js](http://javascriptbook.com/code/c02/js/arithmetic-operator.js) |
+| Using String Operators |	[string-operator.html](http://javascriptbook.com/code/c02/string-operator.html) |	[string-operator.js](http://javascriptbook.com/code/c02/js/string-operator.js) |
+| Example	| [example.html](http://javascriptbook.com/code/c02/example.html)	| [example.js](http://javascriptbook.com/code/c02/js/example.js) |
+
+---
 
 [home](/README.md) | [About me](/about-me.md) | [contact me](/contact-me.md)
