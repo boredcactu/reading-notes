@@ -34,9 +34,27 @@ find your files.
 
 ![Linking to a Specific Article Part of Another Page](./img/link-part-another-page.png)
 
+---
+
 ## CSS Layout 
 
+- CSS treats each HTML element as if it is in its own box. This box will either be a block-level box or an inline box.
+    - Block-level box: starts on a new line. Examples include: <h1>, <p>, <ul>, and <li>.
+    - Inline box: inline elements flow in between surrounding text. Examples include: <img>, <b>, and <i>.
+- CSS has positioning schemes that allow you to control the layout of a page: normal flow, relative positioning, and absolute positioning. You specify the positioning scheme using the position property in CSS. You can also float elements using the float property.
 
+- Normal flow: Every block-level element appears on a new line, causing each item to appear lower down the page than the previous one.
+- Relative Positioning: This moves an element from the position it would be in normal flow, shifting it to the  top, right, bottom, or left of where it would have been placed. This does not affect the position of surrounding elements.
+- Absolute positioning: This positions the element in relation to it's containing element, which means it's taken out of normal flow and move as users scroll up and down the page.
+- Floating an element allows you to take that element out of normal flow and position it to the far left or right of a containing box. The floated element becomes a block-level element around which other content can flow.
+
+- Different sized screens that show different amounts of information, so your design needs to be able to work on a range of different sized screens.
+
+- Liquid layout designs stretch and contract as the user increases or decreases the size of their browser window. They tend to use percentages.
+
+- Fixed width layout designs do not change size as the user increases or decreases the size of their browser window. Measurements tend to be given in pixels.
+
+---
 
 ## JS Functions 
 
