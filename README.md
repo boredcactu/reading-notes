@@ -25,8 +25,8 @@ This course includes a career coaching curriculum to get you ready for your job 
 [HTML Lists, CSS Boxes, JS Control Flow](/class-03.md)  | 27 min
 [HTML Links, CSS Layout, JS Functions](/class-04.md)  | 40 min
 [HTML Images; CSS Color & Text](/class-05.md)  | 30 min
-[read 6]()  | x min
-[read 7]()  | x min
+[JS Object Literals; The DOM]()  | 35 min
+[read 7](/class-06.md)  | x min
 [read 8]()  | x min
 [read 9]()  | x min
 [read 10]() | x min
