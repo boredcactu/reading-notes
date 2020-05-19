@@ -27,7 +27,7 @@ This course includes a career coaching curriculum to get you ready for your job 
 [HTML Images; CSS Color & Text](/class-05.md)  | 30 min
 [JS Object Literals; The DOM](/class-06.md)  | 35 min
 [HTML Tables; JS Constructor Functions](/class-07.md)  | 15 min
-[read 8]()  | x min
+[More CSS Layout](/class-08.md)  | x min
 [read 9]()  | x min
 [read 10]() | x min
 [read 11]() | x min
