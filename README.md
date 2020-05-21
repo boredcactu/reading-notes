@@ -29,7 +29,7 @@ This course includes a career coaching curriculum to get you ready for your job 
 [HTML Tables; JS Constructor Functions](/class-07.md)  | 15 min
 [More CSS Layout](/class-08.md)  | 12 min
 [Forms and Events](/class-09.md)  | 14 min
-[read 10]() | x min
+[JS Debugging](/class-10.md) | 8 min
 [read 11]() | x min
 [read 12]() | x min
 [read 13]() | x min
