@@ -30,7 +30,7 @@ This course includes a career coaching curriculum to get you ready for your job 
 [More CSS Layout](/class-08.md)  | 12 min
 [Forms and Events](/class-09.md)  | 14 min
 [JS Debugging](/class-10.md) | 8 min
-[read 11]() | x min
+[Assorted Topics](/class-11.md) | 15 min
 [read 12]() | x min
 [read 13]() | x min
 [read 14]() | x min
