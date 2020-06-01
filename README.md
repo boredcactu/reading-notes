@@ -21,7 +21,7 @@ This course includes a career coaching curriculum to get you ready for your job 
  **Topic**  | **Reading Time**
 ----------- |-----------------
 [Introductory HTML and JavaScript](/class-01.md)  | 7 min
- [HTML Text, CSS Introduction, and Basic JavaScript Instructions](/class-02.md)  | 15 min
+[HTML Text, CSS Introduction, and Basic JavaScript Instructions](/class-02.md)  | 15 min
 [HTML Lists, CSS Boxes, JS Control Flow](/class-03.md)  | 27 min
 [HTML Links, CSS Layout, JS Functions](/class-04.md)  | 40 min
 [HTML Images; CSS Color & Text](/class-05.md)  | 30 min
@@ -31,7 +31,7 @@ This course includes a career coaching curriculum to get you ready for your job 
 [Forms and Events](/class-09.md)  | 14 min
 [JS Debugging](/class-10.md) | 8 min
 [Assorted Topics](/class-11.md) | 15 min
-[Docs for the HTML <canvas> Element & Chart.js](/class-12.md) | 8 min
+[Docs for the HTML `<canvas>` Element & Chart\.js](/class-12.md) | 8 min
 [read 13]() | x min
 [read 14]() | x min
 [read 15]() | x min 
