@@ -31,7 +31,7 @@ This course includes a career coaching curriculum to get you ready for your job 
 [Forms and Events](/class-09.md)  | 14 min
 [JS Debugging](/class-10.md) | 8 min
 [Assorted Topics](/class-11.md) | 15 min
-[read 12]() | x min
+[Docs for the HTML <canvas> Element & Chart.js](/class-12.md) | 8 min
 [read 13]() | x min
 [read 14]() | x min
 [read 15]() | x min 
