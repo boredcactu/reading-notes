@@ -1,0 +1,16 @@
+# What Google Learned From Its Quest to Build the Perfect Team
+
+Like most 25-year-olds, Julia Rozovsky wasnâ€™t sure what she wanted to do with her life. She had worked at a consulting firm, but it wasnâ€™t a good match. Then she became a researcher for two professors at Harvard, which was interesting but lonely. Maybe a big corporation would be a better fit. Or perhaps a fast-growing start-up. All she knew for certain was that she wanted to find a job that was more social. â€˜â€˜I wanted to be part of a community, part of something people were building together,â€™â€™ she told me. She thought about various opportunities â€” Internet companies, a Ph.D. program â€” but nothing seemed exactly right. So in 2009, she chose the path that allowed her to put off making a decision: She applied to business schools and was accepted by the Yale School of Management.
+
+The fact that these insights arenâ€™t wholly original doesnâ€™t mean Googleâ€™s contributions arenâ€™t valuable. In fact, in some ways, the â€˜â€˜employee performance optimizationâ€™â€™ movement has given us a method for talking about our insecurities, fears and aspirations in more constructive ways. It also has given us the tools to quickly teach lessons that once took managers decades to absorb. Google, in other words, in its race to build the perfect team, has perhaps unintentionally demonstrated the usefulness of imperfection and done what Silicon Valley does best: figure out how to create psychological safety faster, better and in more productive ways.
+
+â€˜â€˜Just having data that proves to people that these things are worth paying attention to sometimes is the most important step in getting them to actually pay attention,â€™â€™ Rozovsky told me. â€˜â€˜Donâ€™t underestimate the power of giving people a common platform and operating language.â€™â€™
+
+Project Aristotle is a reminder that when companies try to optimize everything, itâ€™s sometimes easy to forget that success is often built on experiences â€” like emotional interactions and complicated conversations and discussions of who we want to be and how our teammates make us feel â€” that canâ€™t really be optimized. Rozovsky herself was reminded of this midway through her work with the Project Aristotle team. â€˜â€˜We were in a meeting where I made a mistake,â€™â€™ Rozovsky told me. She sent out a note afterward explaining how she was going to remedy the problem. â€˜â€˜I got an email back from a team member that said, â€˜Ouch,â€™â€‰â€™â€™ she recalled. â€˜â€˜It was like a punch to the gut. I was already upset about making this mistake, and this note totally played on my insecurities.â€™â€™
+
+If this had happened earlier in Rozovskyâ€™s life â€” if it had occurred while she was at Yale, for instance, in her study group â€” she probably wouldnâ€™t have known how to deal with those feelings. The email wasnâ€™t a big enough affront to justify a response. But all the same, it really bothered her. It was something she felt she needed to address.
+
+
+---
+
+[home](/README.md) | [About me](/about-me.md) | [contact me](/contact-me.md)
