@@ -33,8 +33,8 @@ This course includes a career coaching curriculum to get you ready for your job 
 [Assorted Topics](/class-11.md) | 15 min
 [Docs for the HTML `<canvas>` Element & Chart\.js](/class-12.md) | 11 min
 [Local Storage](/class-13.md) | 6 min
-[read 14]() | x min
-[read 15]() | x min 
+[What Google Learned From Its Quest to Build the Perfect Team](/class-14.md) | 13 min
+[What Google Learned From Its Quest to Build the Perfect Team](/class-15.md) | 6 min 
 
 
 ---
