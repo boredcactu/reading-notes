@@ -16,7 +16,7 @@ This course guides students toward developing a well-rounded foundation of skill
 This course includes a career coaching curriculum to get you ready for your job search. The course totals 160 hours, including lectures, lab, coworking, and collaborative projects.
 
 
-## Table Of Contents:
+## Table Of Contents 201:
 
  **Topic**  | **Reading Time**
 ----------- |-----------------
@@ -36,6 +36,27 @@ This course includes a career coaching curriculum to get you ready for your job 
 [What Google Learned From Its Quest to Build the Perfect Team](/class-14.md) | 13 min
 [What Google Learned From Its Quest to Build the Perfect Team](/class-15.md) | 6 min 
 
+---
+
+## Table Of Contents 301:
+
+ **Topic**  | **Reading Time**
+----------- |-----------------
+[SMACSS and Responsive Web Design](/class-16.md)  | 6 min
+[$$$](/class-17.md)  | 15 min
+[###](/class-18.md)  | 27 min
+[@@@](/class-19.md)  | 40 min
+[!!!](/class-20.md)  | 30 min
+[&&&](/class-21.md)  | 35 min
+[$$$](/class-22.md)  | 15 min
+[###](/class-23.md)  | 12 min
+[@@@](/class-24.md)  | 14 min
+[!!!](/class-25.md) | 8 min
+[&&&](/class-26.md) | 15 min
+[$$$](/class-27.md) | 11 min
+[###](/class-28.md) | 6 min
+[@@@](/class-29.md) | 13 min
+[!!!](/class-30.md) | 6 min 
 
 ---
 
