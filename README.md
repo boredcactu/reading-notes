@@ -44,7 +44,7 @@ This course includes a career coaching curriculum to get you ready for your job 
 ----------- |-----------------
 [SMACSS and Responsive Web Design](/read-01.md)  | 6 min
 [jQuery, Events, and The DOM](/read-02.md)  | 10 min
-[###](/read-03.md)  | 27 min
+[Flexbox and Templating](/read-03.md)  | 12 min
 [@@@](/read-04.md)  | 40 min
 [!!!](/read-05.md)  | 30 min
 [&&&](/read-06.md)  | 35 min
