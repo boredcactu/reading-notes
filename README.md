@@ -42,21 +42,21 @@ This course includes a career coaching curriculum to get you ready for your job 
 
  **Topic**  | **Reading Time**
 ----------- |-----------------
-[SMACSS and Responsive Web Design](/class-16.md)  | 6 min
-[$$$](/class-17.md)  | 15 min
-[###](/class-18.md)  | 27 min
-[@@@](/class-19.md)  | 40 min
-[!!!](/class-20.md)  | 30 min
-[&&&](/class-21.md)  | 35 min
-[$$$](/class-22.md)  | 15 min
-[###](/class-23.md)  | 12 min
-[@@@](/class-24.md)  | 14 min
-[!!!](/class-25.md) | 8 min
-[&&&](/class-26.md) | 15 min
-[$$$](/class-27.md) | 11 min
-[###](/class-28.md) | 6 min
-[@@@](/class-29.md) | 13 min
-[!!!](/class-30.md) | 6 min 
+[SMACSS and Responsive Web Design](/read-01.md)  | 6 min
+[jQuery, Events, and The DOM](/read-02.md)  | 10 min
+[###](/read-03.md)  | 27 min
+[@@@](/read-04.md)  | 40 min
+[!!!](/read-05.md)  | 30 min
+[&&&](/read-06.md)  | 35 min
+[$$$](/read-07.md)  | 15 min
+[###](/read-08.md)  | 12 min
+[@@@](/read-09.md)  | 14 min
+[!!!](/read-10.md) | 8 min
+[&&&](/read-11.md) | 15 min
+[$$$](/read-12.md) | 11 min
+[###](/read-13.md) | 6 min
+[@@@](/read-14.md) | 13 min
+[!!!](/read-15.md) | 6 min 
 
 ---
 
