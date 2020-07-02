@@ -46,7 +46,7 @@ This course includes a career coaching curriculum to get you ready for your job 
 [jQuery, Events, and The DOM](/read-02.md)  | 10 min
 [Flexbox and Templating](/read-03.md)  | 12 min
 [Responsive Web Design and Regular Expressions](/read-04.md)  | 7 min
-[Heroku Deployment](/read-05.md)  | 30 min
+[Heroku Deployment](/read-05.md)  | 5 min
 [&&&](/read-06.md)  | 35 min
 [$$$](/read-07.md)  | 15 min
 [###](/read-08.md)  | 12 min
