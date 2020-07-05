@@ -47,7 +47,7 @@ This course includes a career coaching curriculum to get you ready for your job 
 [Flexbox and Templating](/read-03.md)  | 12 min
 [Responsive Web Design and Regular Expressions](/read-04.md)  | 7 min
 [Heroku Deployment](/read-05.md)  | 5 min
-[&&&](/read-06.md)  | 35 min
+[Node, Express, and APIs](/read-06.md)  | 35 min
 [$$$](/read-07.md)  | 15 min
 [###](/read-08.md)  | 12 min
 [@@@](/read-09.md)  | 14 min
