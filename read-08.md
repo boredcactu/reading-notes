@@ -2,7 +2,7 @@
 
   Welcome to SQLBolt, a series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser.
 
- ![image](./img2/apis00.png)
+ ![image](./img2/apis00.jpg)
 
    **what is SQL?**
 
