@@ -2,7 +2,7 @@
 
   Welcome to SQLBolt, a series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser.
 
- ![image](./img/apis00.png)
+ ![image](./img2/apis00.png)
 
    **what is SQL?**
 
@@ -14,9 +14,9 @@
 
  A relational database represents a collection of related (two-dimensional) tables. Each of the tables are similar to an Excel spreadsheet, with a fixed number of named columns (the attributes or properties of the table) and any number of rows of data.
 
- ![image](./img/apis01.png)
+ ![image](./img2/apis01.png)
 
- ![image](./img/apis02.png)
+ ![image](./img2/apis02.png)
 
  ### if you want to learn SQL as a GAME [click here](https://sqlbolt.com/)
 
