@@ -48,8 +48,8 @@ This course includes a career coaching curriculum to get you ready for your job 
 [Responsive Web Design and Regular Expressions](/read-04.md)  | 7 min
 [Heroku Deployment](/read-05.md)  | 5 min
 [Node, Express, and APIs](/read-06.md)  | 7 min
-[APIs continued](/read-07.md)  | 15 min
-[###](/read-08.md)  | 12 min
+[APIs continued](/read-07.md)  | 13 min
+[Introduction to SQL](/read-08.md)  | 12 min
 [@@@](/read-09.md)  | 14 min
 [!!!](/read-10.md) | 8 min
 [&&&](/read-11.md) | 15 min
