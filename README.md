@@ -50,8 +50,8 @@ This course includes a career coaching curriculum to get you ready for your job 
 [Node, Express, and APIs](/read-06.md)  | 7 min
 [APIs continued](/read-07.md)  | 13 min
 [Introduction to SQL](/read-08.md)  | 12 min
-[@@@](/read-09.md)  | 14 min
-[!!!](/read-10.md) | 8 min
+[FUNCTIONAL PROGRAMMING](/read-09.md)  |10 min
+[THE CALL STACK](/read-10.md) | 7 min
 [&&&](/read-11.md) | 15 min
 [$$$](/read-12.md) | 11 min
 [###](/read-13.md) | 6 min
