@@ -53,8 +53,8 @@ This course includes a career coaching curriculum to get you ready for your job 
 [FUNCTIONAL PROGRAMMING](/read-09.md)  |10 min
 [THE CALL STACK](/read-10.md) | 7 min
 [EJS](/read-11.md) | 15 min
-[$$$](/read-12.md) | 11 min
-[###](/read-13.md) | 6 min
+[$$$](/read-12.md) | 8 min
+[Sending form data](/read-13.md) | 8 min
 [@@@](/read-14.md) | 13 min
 [!!!](/read-15.md) | 6 min 
 
