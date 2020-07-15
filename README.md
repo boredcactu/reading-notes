@@ -55,8 +55,9 @@ This course includes a career coaching curriculum to get you ready for your job 
 [EJS](/read-11.md) | 15 min
 [EJS Partials](/read-12.md) | 8 min
 [Sending form data](/read-13.md) | 8 min
-[@@@](/read-14.md) | 13 min
-[!!!](/read-15.md) | 6 min 
+[Database Normalization](/read-14a.md) | 9 min
+[@@@](/read-14b.md) | 10 min
+[!!!](/read-15.md) | 9 min 
 
 ---
 
