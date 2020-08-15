@@ -22,7 +22,7 @@
   ----------- |-----------------
   [Introductory HTML and JavaScript](/class-01.md)  | 7   min
   [HTML Text, CSS Introduction, and Basic JavaScript   Instructions](/class-02.md)  | 15 min
-  [HTML Lists, CSS Boxes, JS Control Flow](/class-03.  md)  | 27 min
+  [HTML Lists, CSS Boxes, JS Control Flow](/class-03.md)  | 27 min
   [HTML Links, CSS Layout, JS Functions](/class-04.md)    | 40 min
   [HTML Images; CSS Color & Text](/class-05.md)  | 30 min
   [JS Object Literals; The DOM](/class-06.md)  | 35 min
@@ -31,7 +31,7 @@
   [Forms and Events](/class-09.md)  | 14 min
   [JS Debugging](/class-10.md) | 8 min
   [Assorted Topics](/class-11.md) | 15 min
-  [Docs for the HTML `<canvas>` Element & Chart\.js](/  class-12.md) | 11 min
+  [Docs for the HTML `<canvas>` Element & Chart\.js](/class-12.md) | 11 min
   [Local Storage](/class-13.md) | 6 min
   [What Google Learned From Its Quest to Build the   Perfect Team](/class-14.md) | 13 min
   [What Google Learned From Its Quest to Build the   Perfect Team](/class-15.md) | 6 min 
@@ -45,7 +45,7 @@
   [SMACSS and Responsive Web Design](/read-01.md)  | 6   min
   [jQuery, Events, and The DOM](/read-02.md)  | 10 min
   [Flexbox and Templating](/read-03.md)  | 12 min
-  [Responsive Web Design and Regular Expressions](/  read-04.md)  | 7 min
+  [Responsive Web Design and Regular Expressions](read-04.md)  | 7 min
   [Heroku Deployment](/read-05.md)  | 5 min
   [Node, Express, and APIs](/read-06.md)  | 7 min
   [APIs continued](/read-07.md)  | 13 min
