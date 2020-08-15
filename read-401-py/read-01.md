@@ -104,4 +104,4 @@ is as easy as adding black
 Done
 ---
 
-[home](./README.md) | [About me](./about-me.md) | [contact me](./contact-me.md)
+[home](././README.md) | [About me](../about-me.md) | [contact me](/./contact-me.md)
