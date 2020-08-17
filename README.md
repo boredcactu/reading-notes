@@ -65,7 +65,7 @@
  **Topic**  | **Reading Time**
 ----------- |-----------------
 [Big O notation](/read-401-py/read-01.md)  | 10 min
-[any](/read-401-py/read-02.md)  | xx min
+[Python Modules and Packages](/read-401-py/read-02.md)  | 18 min
 [any](/read-401-py/read-03.md)  | xx min
 [any](/read-401-py/read-04.md)  | xx min
 [any](/read-401-py/read-05.md)  | xx min
