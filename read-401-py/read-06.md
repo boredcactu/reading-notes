@@ -121,7 +121,8 @@ With this I have reached towards the end of this blog, I hope that the content e
 ## ***references:***
 1. [Random Module](https://www.pythonforbeginners.com/random/how-to-use-the-random-module-in-python)
 1. [Risk Analysis](https://www.edureka.co/blog/risk-analysis-in-software-testing/#RiskIdentification)
-
+1. [Python Random](https://docs.python.org/3/library/random.html)
+1. [Dependency Injection](https://www.freecodecamp.org/news/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f/)
 
 Done
 ---
