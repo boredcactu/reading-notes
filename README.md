@@ -71,7 +71,7 @@
 [Linked Lists](/read-401-py/read-05.md)  | 30 min
 [Game of Greed 1](/read-401-py/read-06.md)  | 22 min
 [Game of Greed 2](/read-401-py/read-07.md)  | 25 min
-[any](/read-401-py/read-08.md)  | xx min
+[List Comprehensions](/read-401-py/read-08.md)  | 10 min
 [any](/read-401-py/read-09.md)  | xx min
 [any](/read-401-py/read-10.md)  | xx min
 [any](/read-401-py/read-11.md)  | xx min
