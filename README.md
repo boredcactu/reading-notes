@@ -109,6 +109,16 @@
 [any](/read-401-py/read-43.md)  | xx min
 [any](/read-401-py/read-44.md)  | xx min
 
+
+---
+
+
+## Table Of prep:
+
+ **Topic**  | **Reading Time**
+----------- |-----------------
+[Career Coaching Workshop #2 Prep - Your Why](/prep/prep1.md)  | 10 min
+
 ---
 
 [home](/README.md) | [About me](/about-me.md) | [contact me](/contact-me.md)
