@@ -74,7 +74,7 @@
 [List Comprehensions](/read-401-py/read-08.md)  | 10 min
 [Dunder (Magic,Special) Methods](/read-401-py/read-09.md)  | 20 min
 [Stacks and Queues](/read-401-py/read-10.md)  | 45 min
-[any](/read-401-py/read-11.md)  | xx min
+[Data Science](/read-401-py/read-11.md)  | 12 min
 [any](/read-401-py/read-12.md)  | xx min
 [any](/read-401-py/read-13.md)  | xx min
 [any](/read-401-py/read-14.md)  | xx min
