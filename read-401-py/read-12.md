@@ -143,10 +143,13 @@ Display the index, columns:
         ```
 
 ## ***references:***
-**read**
+***read***
 1. [Pandas in 10](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
 1. [Master Pandas](https://towardsdatascience.com/be-a-more-efficient-data-scientist-today-master-pandas-with-this-guide-ea362d27386)
-**vedio**
+
+***vedio***
+
+
 1. [Pandas - Getting Started](https://pandas.pydata.org/pandas-docs/stable/getting_started/intro_tutorials/index.html)
 1. [Real Python - Pandas Tutorials](https://realpython.com/learning-paths/pandas-data-science/)
 
