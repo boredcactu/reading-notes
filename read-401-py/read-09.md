@@ -25,10 +25,14 @@ These two events form the sample space, the set of all possible events that can 
 
 
 ## ***references:***
+
 **read**
+
 1. [Dunder Methods](https://dbader.org/blog/python-dunder-methods)
 1. [Statistics - Probability](https://www.dataquest.io/blog/basic-statistics-in-python-probability/)
+
 **vedio**
+
 1. [Intro to Statistics](https://www.youtube.com/watch?v=MdHtK7CWpCQ)
 1. [AI Guru makes $238,800 with misleading paid course. doesn’t credit developers](https://www.youtube.com/watch?v=7jmBE4yPrOs)
 
