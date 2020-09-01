@@ -76,7 +76,7 @@
 [Stacks and Queues](/read-401-py/read-10.md)  | 45 min
 [Data Science](/read-401-py/read-11.md)  | 12 min
 [Pandas in 10](/read-401-py/read-12.md)  | 25 min
-[any](/read-401-py/read-13.md)  | xx min
+[Linear regression](/read-401-py/read-13.md)  | 18 min
 [any](/read-401-py/read-14.md)  | xx min
 [any](/read-401-py/read-15.md)  | xx min
 [any](/read-401-py/read-16.md)  | xx min
