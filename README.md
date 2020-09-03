@@ -78,7 +78,7 @@
 [Pandas in 10](/read-401-py/read-12.md)  | 25 min
 [Linear regression](/read-401-py/read-13.md)  | 18 min
 [Matplotlib](/read-401-py/read-14.md)  | 13 min
-[any](/read-401-py/read-15.md)  | xx min
+[Trees](/read-401-py/read-15.md)  | 20 min
 [any](/read-401-py/read-16.md)  | xx min
 [any](/read-401-py/read-17.md)  | xx min
 [any](/read-401-py/read-18.md)  | xx min
