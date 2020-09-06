@@ -79,7 +79,7 @@
 [Linear regression](/read-401-py/read-13.md)  | 18 min
 [Matplotlib](/read-401-py/read-14.md)  | 13 min
 [Trees](/read-401-py/read-15.md)  | 20 min
-[any](/read-401-py/read-16.md)  | xx min
+[Machine Learning Intro](/read-401-py/read-16.md)  | 25 min
 [any](/read-401-py/read-17.md)  | xx min
 [any](/read-401-py/read-18.md)  | xx min
 [any](/read-401-py/read-19.md)  | xx min
