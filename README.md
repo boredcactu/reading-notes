@@ -82,7 +82,7 @@ This course includes a career coaching curriculum to get you ready for your job 
 | [Machine Learning Intro](/read-401-py/read-16.md)          | 25 min           |
 | [Web Scraping](/read-401-py/read-17.md)                    | 18 min           |
 | [Cryptography](/read-401-py/read-18.md)                    | 15 min           |
-| [any](/read-401-py/read-19.md)                             | xx min           |
+| [Automation](/read-401-py/read-19.md)                      | 35 min           |
 | [any](/read-401-py/read-20.md)                             | xx min           |
 | [any](/read-401-py/read-21.md)                             | xx min           |
 | [any](/read-401-py/read-22.md)                             | xx min           |
