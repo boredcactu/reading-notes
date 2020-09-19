@@ -83,7 +83,7 @@ This course includes a career coaching curriculum to get you ready for your job 
 | [Web Scraping](/read-401-py/read-17.md)                    | 18 min           |
 | [Cryptography](/read-401-py/read-18.md)                    | 15 min           |
 | [Automation](/read-401-py/read-19.md)                      | 35 min           |
-| [Intro to Django](/read-401-py/read-20.md)                 | xx min           |
+| [Intro to Django](/read-401-py/read-20.md)                 | 25 min           |
 | [any](/read-401-py/read-21.md)                             | xx min           |
 | [any](/read-401-py/read-22.md)                             | xx min           |
 | [any](/read-401-py/read-23.md)                             | xx min           |
