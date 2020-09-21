@@ -45,7 +45,7 @@ print(django.get_version())
 # You may have another version of Django installed
 ```
 
-> Now if you want to dig deep into Django [click here](https://docs.djangoproject.com/en/3.1/intro/tutorial01/)
+> if you want to dig deep into Django [click here](https://docs.djangoproject.com/en/3.1/intro/tutorial01/)
 
 ## **_references:_**
 
