@@ -85,7 +85,7 @@ This course includes a career coaching curriculum to get you ready for your job 
 | [Automation](/read-401-py/read-19.md)                      | 35 min           |
 | [Intro to Django](/read-401-py/read-20.md)                 | 25 min           |
 | [Django Models](/read-401-py/read-21.md)                   | 40 min           |
-| [any](/read-401-py/read-22.md)                             | xx min           |
+| [Django CRUD and Forms](/read-401-py/read-22.md)           | 40 min           |
 | [any](/read-401-py/read-23.md)                             | xx min           |
 | [any](/read-401-py/read-24.md)                             | xx min           |
 | [any](/read-401-py/read-25.md)                             | xx min           |
