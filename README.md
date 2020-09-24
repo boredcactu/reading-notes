@@ -87,7 +87,7 @@ This course includes a career coaching curriculum to get you ready for your job 
 | [Django Models](/read-401-py/read-21.md)                   | 40 min           |
 | [Django CRUD and Forms](/read-401-py/read-22.md)           | 40 min           |
 | [anDjango Custom User Modely](/read-401-py/read-23.md)     | 12 min           |
-| [any](/read-401-py/read-24.md)                             | xx min           |
+| [Hashtables](/read-401-py/read-24.md)                      | 15 min           |
 | [any](/read-401-py/read-25.md)                             | xx min           |
 | [any](/read-401-py/read-26.md)                             | xx min           |
 | [any](/read-401-py/read-27.md)                             | xx min           |
