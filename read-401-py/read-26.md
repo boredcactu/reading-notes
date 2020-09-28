@@ -146,8 +146,7 @@ The Django Rest Framework Role Filters package provides simple filtering over mu
 
 **_read_**
 
-1. [DRF Permissions
-](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-30/resources/Hashtables.html)
+1. [DRF Permissions](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-30/resources/Hashtables.html)
 
 1. [basics of hash tables](https://www.django-rest-framework.org/api-guide/permissions/)
 
