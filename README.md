@@ -91,7 +91,7 @@ This course includes a career coaching curriculum to get you ready for your job 
 | [Django REST Framework](/read-401-py/read-25.md)           | 10 min           |
 | [DRF Permissions](/read-401-py/read-26.md)                 | 35 min           |
 | [Authentication & Production](/read-401-py/read-27.md)     | 22 min           |
-| [any](/read-401-py/read-28.md)                             | xx min           |
+| [API Deployment](/read-401-py/read-28.md)                  | 15 min           |
 | [any](/read-401-py/read-29.md)                             | xx min           |
 | [any](/read-401-py/read-30.md)                             | xx min           |
 | [any](/read-401-py/read-31.md)                             | xx min           |
