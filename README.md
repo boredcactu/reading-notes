@@ -93,7 +93,7 @@ This course includes a career coaching curriculum to get you ready for your job 
 | [Authentication & Production](/read-401-py/read-27.md)     | 22 min           |
 | [API Deployment](/read-401-py/read-28.md)                  | 15 min           |
 | [Graphs](/read-401-py/read-29.md)                          | 25 min           |
-| [any](/read-401-py/read-30.md)                             | xx min           |
+| [Whiteboard Advice](/read-401-py/read-30.md)               | 10 min           |
 | [any](/read-401-py/read-31.md)                             | xx min           |
 | [any](/read-401-py/read-32.md)                             | xx min           |
 | [any](/read-401-py/read-33.md)                             | xx min           |
