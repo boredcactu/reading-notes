@@ -94,8 +94,8 @@ This course includes a career coaching curriculum to get you ready for your job 
 | [API Deployment](/read-401-py/read-28.md)                  | 15 min           |
 | [Graphs](/read-401-py/read-29.md)                          | 25 min           |
 | [Whiteboard Advice](/read-401-py/read-30.md)               | 10 min           |
-| [React 1](/read-401-py/read-31.md)                         | 28 min           |
-| [any](/read-401-py/read-32.md)                             | xx min           |
+| [React I](/read-401-py/read-31.md)                         | 28 min           |
+| [React II](/read-401-py/read-32.md)                        | 15 min           |
 | [any](/read-401-py/read-33.md)                             | xx min           |
 | [any](/read-401-py/read-34.md)                             | xx min           |
 | [any](/read-401-py/read-35.md)                             | xx min           |
